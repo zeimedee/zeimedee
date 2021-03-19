@@ -11,7 +11,7 @@
 <p align='center'>
   
   
-  <a href="www.linkedin.com/in/alexander-domakyaareh-80b368124">
+  <a href="http://www.linkedin.com/in/alexander-domakyaareh-80b368124">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/zeimedee">
