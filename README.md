@@ -30,15 +30,15 @@
 <p align='center'>
   💻 My Stack<br/><br/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <!-- <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> -->
+<!--   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> -->
+<!--   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 
 
 - 🔭 I’m currently working on a chat app
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning go
 - 💬 Ask me about anything related to technology and I have something to say
 
 
