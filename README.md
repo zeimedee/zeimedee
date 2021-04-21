@@ -43,7 +43,7 @@
 
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=zeimedee&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=zeimedee&show_icons=true)
 
 <hr>
 
