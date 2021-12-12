@@ -37,7 +37,7 @@
 
 
 
-- 🔭 I’m currently working on a chat app
+<!-- - 🔭 I’m currently working on a chat app -->
 - 🌱 I’m currently learning go
 - 💬 Ask me about anything related to technology and I have something to say
 
